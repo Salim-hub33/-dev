@@ -5,11 +5,6 @@ import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/**
- * Java Minesweeper Game
- *
- */
-
 public class Minesweeper extends JFrame {
 
     private JLabel statusbar;
